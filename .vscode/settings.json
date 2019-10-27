@@ -1,6 +1,16 @@
 {
-    "files.associations": {
-        "*.ttml": "xml",
-        "*.ttss": "css"
-    }
+  "files.associations": {
+    "*.ttml": "xml",
+    "*.ttss": "css"
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+  },
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "all",
+    "editor.acceptSuggestionOnEnter": "off"
+  }
 }
